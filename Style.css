@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background: #f0f0f0;
+    color: #333;
+}
+
+header h1 {
+    color: #2a9d8f;
+}
+
+a {
+    color: #e76f51;
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 0.8em;
+    color: #555;
+}
+=======
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background: #f0f0f0;
+    color: #333;
+}
+
+header h1 {
+    color: #2a9d8f;
+}
+
+a {
+    color: #e76f51;
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 0.8em;
+    color: #555;
+}
+>>>>>>> 3e7f229e41c9c2663cca8de15f0b31be78d43831
